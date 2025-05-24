@@ -8,5 +8,5 @@ Täällä on kokoelma hyödyllisiä Node.js-esimerkkejä eri käyttötarkoituksi
 - 🧪 [objectExample](https://github.com/NodeJsExamples/objectExample) – JavaScript objekti
 - 🧪 [expressExample](https://github.com/NodeJsExamples/expressExample) – Express.js perusteet
 - 🧪 [staticExample](https://github.com/NodeJsExamples/staticExample) – Express.js ilman tietokantaa
-- 🧪 [databasaeApiExample](https://github.com/NodeJsExamples/databasaeApiExample) – Express.js ja MySQL
+- 🧪 [databaseApiExample](https://github.com/NodeJsExamples/databaseApiExample) – Express.js ja MySQL
 
